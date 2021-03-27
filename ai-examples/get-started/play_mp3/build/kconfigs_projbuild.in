@@ -1,0 +1,7 @@
+source "/home/jalakamkiran/esp/esp-idf/components/app_update/Kconfig.projbuild"
+source "/home/jalakamkiran/esp/esp-idf/components/bootloader/Kconfig.projbuild"
+source "/home/jalakamkiran/esp/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "/home/jalakamkiran/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+source "/home/jalakamkiran/esp/esp32-adf-a1s-master/components/audio_board/Kconfig.projbuild"
+source "/home/jalakamkiran/esp/esp32-adf-a1s-master/components/esp-adf-libs/Kconfig.projbuild"
+source "/home/jalakamkiran/esp/esp32-adf-a1s-master/components/esp-sr/Kconfig.projbuild"
