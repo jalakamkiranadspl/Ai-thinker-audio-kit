@@ -1,3 +1,5 @@
+First of all a big thanks to @chandrabezzo for uploading the repo with support for ai thinker. I have merely done modifications for the deprecation issues. All credit goes to him for creating a file which has helped a lot and saved my project. Thanks mate.
+
 
 # Ai-Thinker AudioKit Board SDK
 Clone ESP32-Idf as esp-idf using https://github.com/chandrabezzo/esp32-idf-a1s.git in this folder.
